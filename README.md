@@ -44,8 +44,12 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 <br/>
 <br/>
+
+
 <div align="left" width="100%">
+  
 <hr/>
+  
 </div>
 
 
