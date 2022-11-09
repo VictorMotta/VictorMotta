@@ -4,12 +4,12 @@
 
 <div align="center">
   <h1>VictorMotta</h1>
-  <h3>😎 Developer Full Stack in Brazil 🌎</h3><br>
+  <h3>😎 Software Engineer in Brazil 🌎</h3><br>
 </div>
 
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=VictorMotta&count_private=true&show_icons=true" alt="My github stats">
 
-My name is Victor Motta. I'm Developer Full Stack from Brazil, graduated in systems analysis and development at Estácio.
+My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems analysis and development at Estácio.
 
 
 
