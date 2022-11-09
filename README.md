@@ -14,11 +14,11 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 </p>
 
 ### Talk with me:
-<br/>
+
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-
+<br/>
 
 
 <p>
