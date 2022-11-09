@@ -78,7 +78,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 <details>
  
-<summary>GitHub Stats </summary>
+<summary>GitHub Stats</summary>
  
  <br />
 <p align="center">
@@ -88,8 +88,11 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
  
 </details>
 
+<br/>
 
+<summary>Contributions</summary>
 
+![snake gif](https://github.com/VictorMotta/VictorMotta/blob/output/github-contribution-grid-snake.gif)
 
 
 
