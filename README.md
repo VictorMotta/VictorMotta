@@ -56,12 +56,11 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 <p>
 <div align="center">
   
-  [<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repUm]
-  [<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repDois]
-  [<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=assistente_virtual_em_python&show_icons=true&theme=transparent" alt="My github stats">][repTres]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=assistente_virtual_em_python&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
-
 
 
 
