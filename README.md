@@ -75,6 +75,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
   
 </div></p>
 
+<br/>
 
 <details>
  
