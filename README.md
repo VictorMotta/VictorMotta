@@ -53,7 +53,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 ###
 
 
-<div align="left">
+<div align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
   <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=Projeto_04_parrotsCardGame&show_icons=true" alt="My github stats">
   <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=assistente_virtual_em_python&show_icons=true" alt="My github stats">
