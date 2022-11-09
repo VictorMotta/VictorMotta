@@ -44,22 +44,12 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 <br/>
 <br/>
-<div>
+<div align="left" width="100%">
 <hr/>
 </div>
 
 
-<div align="left">
-<!--   <a href="https://www.youtube.com/c/lesimoes?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo"  />
-  </a> -->
-  <a href="https://www.linkedin.com/in/victor-motta-371a34186/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-<!--   <a href="https://stackoverflow.com/users/5484299/lesimoes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="stackoverflow logo"  />
-  </a> -->
-</div>
+
 
 ###
 
