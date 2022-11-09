@@ -7,9 +7,18 @@
   <h3>😎 Software Engineer in Brazil 🌎</h3><br>
 </div>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=VictorMotta&count_private=true&show_icons=true&theme=transparent" alt="My github stats">
+<img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="500" height="320"/>
 
+<p align="left">
 My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems analysis and development at Estácio.
+</p>
+
+### Talk with me:
+<br/>
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
 
 
 
@@ -23,11 +32,11 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="flask" width="26px" src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="GitHub" width="26px" src="https://w7.pngwing.com/pngs/857/611/png-transparent-github-git-hub-logo-icon-thumbnail.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
@@ -35,7 +44,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 <br/>
 <br/>
-<hr>
+<hr/>
 
 
 
@@ -63,6 +72,17 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 </div></p>
 
 
+<details>
+ 
+<summary>GitHub Stats </summary>
+ 
+ <br />
+<p align="center">
+  <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=marcio-vot&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&theme=tokyonight" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_border=true&hide_title=true&theme=tokyonight" /></a>
+
+ </p>
+ 
+</details>
 
 
 
@@ -72,8 +92,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 
 
-
-
+[linkedin]: https://www.linkedin.com/in/victor-motta-371a34186/
 [repUm]: https://github.com/VictorMotta/projeto5-batepapouol
 [repDois]: https://github.com/VictorMotta/Projeto_04_parrotsCardGame
 [repTres]: https://github.com/VictorMotta/assistente_virtual_em_python
