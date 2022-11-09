@@ -7,7 +7,7 @@
   <h3>😎 Software Engineer in Brazil 🌎</h3><br>
 </div>
 
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=VictorMotta&count_private=true&show_icons=true" alt="My github stats">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=VictorMotta&count_private=true&show_icons=true&theme=transparent" alt="My github stats">
 
 My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems analysis and development at Estácio.
 
@@ -31,10 +31,11 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
-<br />
-<br />
 
----
+
+<br/>
+<br/>
+<hr>
 
 
 
@@ -54,9 +55,9 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 
 <div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=Projeto_04_parrotsCardGame&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=assistente_virtual_em_python&show_icons=true" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=assistente_virtual_em_python&show_icons=true&theme=transparent" alt="My github stats">
 </div>
 
 
