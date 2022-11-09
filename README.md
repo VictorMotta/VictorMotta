@@ -31,9 +31,9 @@ My name is Victor Motta. I'm Developer Full Stack from Brazil, graduated in syst
 
 
 <div align="left">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=sqs-huge-message&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=COVID-MG&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=ShaolimBot&show_icons=true" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&projeto5-batepapouol&show_icons=true" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=Projeto_04_parrotsCardGame&show_icons=true" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=assistente_virtual_em_python&show_icons=true" alt="My github stats">
 </div>
 
 
