@@ -82,7 +82,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
  
  <br />
 <p align="center">
-  <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=marcio-vot&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&theme=tokyonight" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_border=true&hide_title=true&theme=tokyonight" /></a>
+  <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=VictorMotta&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=transparent" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_title=true&theme=transparent" /></a>
 
  </p>
  
@@ -90,10 +90,19 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 <br/>
 
+<details>
+
 <summary>Contributions</summary>
 
-![snake gif](https://github.com/VictorMotta/VictorMotta/blob/output/github-contribution-grid-snake.gif)
-
+<p align="center">
+  
+  <br/>
+<!-- ![snake gif](https://github.com/VictorMotta/VictorMotta/blob/output/github-contribution-grid-snake.gif) -->
+  <img align="center" src="https://github.com/VictorMotta/VictorMotta/blob/output/github-contribution-grid-snake.gif">
+  
+</p>
+  
+</details>
 
 
 
