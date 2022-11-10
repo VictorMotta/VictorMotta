@@ -7,7 +7,7 @@
   <h3>😎 Software Engineer in Brazil 🌎</h3><br>
 </div>
 
-<img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="450" height="320"/>
+<img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="40%" height="320"/>
 
 <p align="left">
 My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems analysis and development at Estácio.
@@ -28,7 +28,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
   
 ### Languages and Tools:
   
-<div align="left" width="50%">
+<div align="left" width="60%">
   
 <!-- <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
