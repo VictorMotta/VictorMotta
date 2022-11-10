@@ -7,7 +7,7 @@
   <h3>😎 Software Engineer in Brazil 🌎</h3><br>
 </div>
 
-<img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="500" height="320"/>
+<img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="450" height="320"/>
 
 <p align="left">
 My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems analysis and development at Estácio.
