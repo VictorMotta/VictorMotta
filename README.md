@@ -50,9 +50,9 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 <p>
 <div align="center">
   
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=TrackIt&show_icons=true&theme=transparent" alt="My github stats">][repUm]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=CineFlex&show_icons=true&theme=transparent" alt="My github stats">][repDois]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorMotta&repo=ParrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=victormotta&repo=TrackIt&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=victormotta&repo=CineFlex&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=victormotta&repo=ParrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
 
@@ -64,7 +64,7 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
  
  <br />
 <p align="center">
-  <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=VictorMotta&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=transparent" />  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_title=true&theme=transparent" /></a>
+  <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=victormotta&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=transparent" />  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormotta&layout=compact&hide_title=true&theme=transparent" /></a>
 
  </p>
  
