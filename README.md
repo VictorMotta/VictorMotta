@@ -74,22 +74,12 @@ My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems
 
 
 
-### Contributions Snake:
-
-<p align="center">
-  
-  <br/>
-<!-- ![snake gif](https://github.com/VictorMotta/VictorMotta/blob/output/github-contribution-grid-snake.gif) -->
-  <img align="center" src="https://github.com/VictorMotta/VictorMotta/blob/output/github-contribution-grid-snake.gif">
-  
-</p>
-  
 
 
 
 
 
-[linkedin]: https://www.linkedin.com/in/victor-motta-371a34186/
+[linkedin]: https://www.linkedin.com/in/victor-mottas/
 [repUm]: https://github.com/VictorMotta/TrackIt
 [repDois]: https://github.com/VictorMotta/CineFlex
 [repTres]: https://github.com/VictorMotta/ParrotsCardGame
