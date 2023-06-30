@@ -9,7 +9,7 @@
 
 <img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="45%" />
 
-<p align="left">
+<p align="left" padding="10px">
 Meu nome é Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em análise e desenvolvimento de sistemas pela Estácio. Contando com mais de 25 projetos criado.
 </p>
 
