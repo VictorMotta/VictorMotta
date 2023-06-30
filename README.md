@@ -10,7 +10,7 @@
 <img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="45%" />
 
 <p align="left">
-My name is Victor Motta. I'm Software Engineer from Brazil, graduated in systems analysis and development at Estácio.
+Meu nome é Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em análise e desenvolvimento de sistemas pela Estácio. Contando com mais de 25 projetos criado.
 </p>
 
 ### Talk with me:
