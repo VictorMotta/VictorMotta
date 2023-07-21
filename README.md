@@ -44,7 +44,7 @@ Meu nome √© Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em an√
 
 
 
-
+<!--
 ### Best projects:
 
 <p>
@@ -55,7 +55,7 @@ Meu nome √© Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em an√
   [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=victormotta&repo=ParrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
-
+-->
 <br/>
 
 
