@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>VictorMotta</h1>
-  <h3>😎 Software Engineer in Brazil 🌎</h3><br>
+  <h3>😎 Desenvolvedor de Software 🌎</h3><br>
 </div>
 
 <img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="45%" />
