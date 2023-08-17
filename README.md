@@ -38,7 +38,6 @@ Meu nome √© Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em an√
 </div>
 </p>
 
----
   
 
 
