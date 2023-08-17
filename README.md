@@ -60,14 +60,7 @@ Meu nome √© Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em an√
 
 
 
-### GitHub Stats:
- 
- <br />
-<p align="center">
-  <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=victormotta&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=transparent" />  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormotta&layout=compact&hide_title=true&theme=transparent" /></a>
 
- </p>
- 
 
 
 <br/>
