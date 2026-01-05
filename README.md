@@ -10,7 +10,7 @@
 <img  align="right" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif" width="45%" />
 
 <p align="left" >
-Meu nome é Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em análise e desenvolvimento de sistemas pela Estácio. Contando com mais de 25 projetos criado.
+Meu nome é Vitor Motta. Sou Desenvolvedor de Software do Brasil, formado em análise e desenvolvimento de sistemas pela Estácio. Contando com mais de 25 projetos criado. E experiência em 2 empresas como engenheiro de Software. Hoje estou trabalhando na Agrisafe como Engenheiro de Software Pleno.
 </p>
 
 ### Talk with me:
